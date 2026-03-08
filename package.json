@@ -1,0 +1,9 @@
+{
+  "name": "inventory-api",
+  "version": "1.0.0",
+  "description": "A minimalist inventory API built on a custom Node.js HTTP framework",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
